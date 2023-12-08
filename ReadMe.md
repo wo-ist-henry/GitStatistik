@@ -25,10 +25,14 @@ chmod +x GitHub.sh
 Set the GitHub username and the year for which you want to collect statistics at the beginning of the script:
 
 # Set GitHub Username
+```bash
 GITHUB_USER="username"
+```
 
 # Set the year for which the statistics should be retrieved
+```bash
 YEAR="year"
+```
 
 Then run the script:
 ```bash
